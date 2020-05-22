@@ -6,4 +6,4 @@
 
 # Define exposed ports
 
-# instruct the container to run the app
+# Instruct the container to run the app
